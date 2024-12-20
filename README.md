@@ -4,7 +4,7 @@
 - **Member 1**: Ammar Haziq bin Zainal (2217763)
 - **Member 2**: Nur Amira Binti Azhari (2217176)
 - **Member 3**: Nik Shameera Azfareeha Binti Nik Shamlan (2213916)
-- **Member 4**: Amirah Amnani binti Mohd Hushini @ Mohd Husaini (2215714)
+- **Member 4**: Amirah Amnani binti Mohd Hushini @ Mohd Husaini (2215714) 
 - **Member 5**: NUR NISA NASUHA BINTI NAZRI (221645)
 
 ## Introduction
@@ -29,7 +29,7 @@ Tourista aims to enhance the travel experience by providing an all-in-one platfo
 6. **Admin Panel**:
    - Manage users, tour packages, and bookings.
 7. **Vehicle Rental**:  
-   - Enable users to search, filter, and book vehicles by type, availability, and location, with real-time pricing and secure payment options.
+   - Enable users to search, filter, and book vehicles by type, availability, and location, with real-time pricing and secure payment options
 
 ## Entity-Relationship Diagram (ERD)
 
